@@ -1,1 +1,1 @@
-python3 solver_checkbox.py k4mKknV5EeyrDAqvINCGXQ bOvji 1800
+python3 solver_mcq_checkbox_textbox.py k4mKknV5EeyrDAqvINCGXQ bOvji 1800
